@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Jane
+[linkedin]:(https://www.linkedin.com/in/donovan-davis-b2a4ab2bb/)
